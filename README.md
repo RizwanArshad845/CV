@@ -1,7 +1,11 @@
+# Details
+Github repo link:https://github.com/RizwanArshad845/CV.git
+Live vercel link:Live link:https://cv-dusky-pi.vercel.app/
 # Personal CV / Portfolio Website
 
 This is my personal CV and portfolio website built using **HTML and CSS**.  
 It shows my education, skills, projects, and contact information in a clean and professional way.
+
 ## 📌 Features
 
 - Simple and clean design
